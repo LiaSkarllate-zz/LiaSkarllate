@@ -1,4 +1,4 @@
-# Saudações, sou William Fernandes Dorante! :D'
+# Saudações, sou William Fernandes Dorante.
 
 ## Breve Introdução
 Atualmente, eu estou graduando como bacharel em Ciência de Computação na Universidade Estadual Paulista (UNESP), no campus de Rio Claro/SP. Concomitantemente, estou conduzindo um projeto de pesquisa acadêmica de iniciação científica na área de sistemas autoadapativos com o uso do *framework* Java [*Spring*](https://spring.io). Fora do espoco acadêmico, desenvolvo minhas habilidades na área de desenvolvimento *web*, com foco nas tecnologias JavaScript [*Node.js*](https://nodejs.org) e [*React*](https://reactjs.org) e, também, na área de segurança da informação, com foco na segurança ofensiva. 
@@ -7,7 +7,7 @@ Atualmente, eu estou graduando como bacharel em Ciência de Computação na Univ
 
 Para mais informações sobre mim, acesse meu [*site* pessoal](https://liaskarllate.dev).
 
-# *Greetings, I'm William Fernandes Dorante! :D'*
+# *Greetings, I'm William Fernandes Dorante.*
 
 ## *Brief Introduction*
 
