@@ -11,7 +11,7 @@ Para mais informações sobre mim, acesse meu [*site* pessoal](https://liaskarll
 
 ## *Brief Introduction*
 
-*Currently, I'm graduating as a bachelor in Computer Science at Universidade Estadual Paulista (UNESP), campus of Rio Claro/SP. Concomitantly, I'm conducting an undergraduate research project in the area of self-adaptive systems, using the framework Java [Spring](https://spring.io/). Outside the academic field, I hone my skills in the *web* development area, with a focus on JavaScript technologies [*Node.js*](https://nodejs.org) and [*React*](https://reactjs.org) and, also, in the information security area, with a focus on offensive security.*
+*Currently, I'm graduating as a bachelor in Computer Science at Universidade Estadual Paulista (UNESP), campus of Rio Claro/SP. Concomitantly, I'm conducting an undergraduate research project in the area of self-adaptive systems, using the framework Java [Spring](https://spring.io/). Outside the academic field, I hone my skills in the *web* development area, with a focus on JavaScript technologies [*Node.js*](https://nodejs.org) and [*React*](https://reactjs.org), and, also, in the information security area, with a focus on offensive security.*
 
 ## *About me*
 
