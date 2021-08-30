@@ -2,7 +2,7 @@
 
 ## Breve Introdução
 
-Atualmente, estou graduando como bacharel em Ciência de Computação na Universidade Estadual Paulista (UNESP), em Rio Claro/SP. Concomitantemente, trabalho como estagiário de desenvolvimento web na Casa do Construtor, também em Rio Claro/SP.
+Atualmente, estou graduando como bacharel em Ciência de Computação na Universidade Estadual Paulista (UNESP), em Rio Claro/SP. Concomitantemente, trabalho como estagiário de desenvolvimento *web* na Casa do Construtor, também em Rio Claro/SP.
 
 Fora do ambiente acadêmico e profissional, desenvolvo minhas habilidades na área de segurança da informação, com foco na segurança ofensiva.
 
