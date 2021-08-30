@@ -10,7 +10,7 @@ Fora do ambiente acadêmico e profissional, desenvolvo minhas habilidades na ár
 
 Para mais informações sobre mim, acesse meu [*site* pessoal](https://liaskarllate.dev).
 
-# *Greetings, I'm William Fernandes Dorante.*
+# *Greetings, I am William Fernandes Dorante.*
 
 ## *Brief Introduction*
 
