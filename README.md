@@ -1,7 +1,10 @@
 # Saudações, sou William Fernandes Dorante.
 
 ## Breve Introdução
-Atualmente, eu estou graduando como bacharel em Ciência de Computação na Universidade Estadual Paulista (UNESP), no campus de Rio Claro/SP. Concomitantemente, estou conduzindo um projeto de pesquisa acadêmica de iniciação científica na área de sistemas autoadaptativos com o uso do *framework* Java [*Spring*](https://spring.io). Fora do espoco acadêmico, desenvolvo minhas habilidades na área de desenvolvimento *web*, com foco nas tecnologias JavaScript [*Node.js*](https://nodejs.org) e [*React*](https://reactjs.org), e, também, na área de segurança da informação, com foco na segurança ofensiva. 
+
+Atualmente, eu estou graduando como bacharel em Ciência de Computação na Universidade Estadual Paulista (UNESP), em Rio Claro/SP. Concomitantemente, trabalho como estagiário de desenvolvimento web na Casa do Construtor, também em Rio Claro/SP.
+
+Fora do ambiente acadêmico e profissional, desenvolvo minhas habilidades na área de segurança da informação, com foco na segurança ofensiva.
 
 ## Sobre mim
 
@@ -11,7 +14,9 @@ Para mais informações sobre mim, acesse meu [*site* pessoal](https://liaskarll
 
 ## *Brief Introduction*
 
-*Currently, I'm graduating as a bachelor in Computer Science at Universidade Estadual Paulista (UNESP), campus of Rio Claro/SP. Concomitantly, I'm conducting an undergraduate research project in the area of self-adaptive systems, using the framework Java [Spring](https://spring.io/). Outside the academic field, I hone my skills in the *web* development area, with a focus on JavaScript technologies [*Node.js*](https://nodejs.org) and [*React*](https://reactjs.org), and, also, in the information security area, with a focus on offensive security.*
+*Currently, I am graduating in Computer Science at Universidade Estadual Paulista (UNESP), in Rio Claro/SP. Concomitantly, I work as an intern in web development at Casa do Construtor, also in Rio Claro/SP.*
+
+*Outside of the academic and professional environment, I develop my skills in the area of information security, with a focus on offensive security.*
 
 ## *About me*
 
