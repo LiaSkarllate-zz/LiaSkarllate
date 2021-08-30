@@ -16,7 +16,7 @@ Para mais informações sobre mim, acesse meu [*site* pessoal](https://liaskarll
 
 *Currently, I am graduating in Computer Science at Universidade Estadual Paulista (UNESP), in Rio Claro/SP. Concomitantly, I work as an intern in web development at Casa do Construtor, also in Rio Claro/SP.*
 
-*Outside of the academic and professional environment, I improve my skills in the area of information security, with a focus on offensive security.*
+*Outside the academic and professional environment, I improve my skills in the area of information security, with a focus on offensive security.*
 
 ## *About me*
 
