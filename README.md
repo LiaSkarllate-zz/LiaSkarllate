@@ -12,7 +12,7 @@ Fora do contexto acadêmico e profissional, desenvolvo minhas habilidades na ár
 
 Para mais informações sobre mim, acesse meu [*site* pessoal](https://liaskarllate.dev).
 
-# *Greetings, guest on my profile!*
+# *Greetings, my profile visitor!*
 
 ## *Brief Introduction*
 
