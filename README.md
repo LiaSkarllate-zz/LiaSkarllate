@@ -1,4 +1,4 @@
-# Saudações, pessoa visitante do meu perfil!
+# Saudações, visitante do meu perfil!
 
 ## Breve Introdução
 
