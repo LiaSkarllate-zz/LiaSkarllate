@@ -1,4 +1,4 @@
-# Saudações, pessoa visitante do meu perfil!.
+# Saudações, pessoa visitante do meu perfil!
 
 ## Breve Introdução
 
@@ -12,16 +12,16 @@ Fora do contexto acadêmico e profissional, desenvolvo minhas habilidades na ár
 
 Para mais informações sobre mim, acesse meu [*site* pessoal](https://liaskarllate.dev).
 
-# Greetings, guest on my profile!
+# *Greetings, guest on my profile!*
 
-_## Brief Introduction
+## *Brief Introduction*
 
-Hope you are well. 
+*Hope you are well.* 
 
-First, I would like to introduce myself: I'm William Fernandes Dorante, graduating at Universidade Estadual Paulista (UNESP), in Rio Claro/SP, with a bachelor's degree in Computer Science. Concomitantly, I work at Autbank, in São Paulo/SP, as a Java development intern.
+*First, I would like to introduce myself: I'm William Fernandes Dorante, graduating at Universidade Estadual Paulista (UNESP), in Rio Claro/SP, with a bachelor's degree in Computer Science. Concomitantly, I work at Autbank, in São Paulo/SP, as a Java development intern.*
 
-Outside the academic and professional context, I improve my skills in the area of information security, with a focus on offensive security, and I work as a bug hunter.
+*Outside the academic and professional context, I improve my skills in the area of information security, with a focus on offensive security, and I work as a bug hunter.*
 
-## About me
+## *About me*
 
-For more information about me, visit my [personal website](https://liaskarllate.dev)._
+*For more information about me, visit my [personal website](https://liaskarllate.dev).*
